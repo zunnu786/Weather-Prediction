@@ -3,7 +3,7 @@ This is a simple GUI application built with tkinter for predicting weather condi
 
 ## Getting Started
 Make sure you have the following dependencies installed:
-### Python 3
-.pandas
+#### *Python 3*
+**.pandas**
 .scikit-learn
 .tkinter
